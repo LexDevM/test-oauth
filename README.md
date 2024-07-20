@@ -56,6 +56,7 @@ Este proyecto fue desarrollado con la valiosa guía y enseñanzas de:
 
 **Prof. Mario Moreno**
 - GitHub: [Mario Moreno](https://github.com/mariomorenor)
+  
 **Dev Kris Foster**
 - GitHub: [Kris Foster](https://github.com/kriscfoster) 
 
