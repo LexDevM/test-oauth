@@ -2,6 +2,7 @@ const express = require('express');
 const session = require('express-session');
 const passport = require('passport');
 require('./auth');
+require('dotenv').config();
 
 const app = express();
 
