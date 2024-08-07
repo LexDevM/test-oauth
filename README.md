@@ -30,6 +30,7 @@ GOOGLE_CLIENT_SECRET=tu_secreto_de_cliente_aquí
 
 ## Uso
 
+0. Para instalar las dependencias `npm install`
 1. Inicia la aplicación con `npm start`
 2. Abre un navegador y ve a `http://localhost:5000`
 3. Haz clic en "Authenticate with Google" para iniciar el proceso de autenticación
